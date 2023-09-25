@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 304 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-26)">
+        <path d="M151.2,126.4L127,126.4L127,150.6L151.2,150.6L151.2,126.4ZM151.2,76.4L127,76.4L127,100.5L151.2,100.5L151.2,76.4ZM176.4,76.4L152.2,76.4L152.2,100.5L176.4,100.5L176.4,76.4ZM253,100.4L277.2,100.4L277.2,76.4L253,76.4L253,100.4ZM75.6,76.2L51.4,76.2L51.4,100.4L75.6,100.4L75.6,76.2ZM177.4,75.4L201.6,75.4L201.6,51.3L177.4,51.3L177.4,75.4ZM252,75.4L252,51.3L227.8,51.3L227.8,75.4L252,75.4ZM25.2,51.3L1,51.3L1,75.4L25.2,75.4L25.2,51.3ZM278.2,50.3L302.4,50.3L302.4,26.2L278.2,26.2L278.2,50.3ZM75.6,26.2L51.4,26.2L51.4,50.3L75.6,50.3L75.6,26.2ZM26.2,50.3L50.4,50.3L50.4,26.2L26.2,26.2L26.2,50.3ZM126,50.3L126,26.2L101.8,26.2L101.8,50.3L126,50.3ZM202.6,50.3L226.8,50.3L226.8,26.2L202.6,26.2L202.6,50.3ZM76.6,25.2L100.8,25.2L100.8,1L76.6,1L76.6,25.2Z" style="fill:rgb(103,179,203);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-36)">
+        <g id="Camada_2_1_">
+            <g id="Camada_1-2">
+                <path d="M302.9,0.5L0.5,0.5L0.5,75.8L25.7,75.8L25.7,50.8L76.1,50.8L76.1,25.7L101.3,25.7L101.3,50.8L126.5,50.8L126.5,100.9L176.9,100.9L176.9,75.8L202.1,75.8L202.1,50.8L227.3,50.8L227.3,75.8L252.5,75.8L252.5,100.9L277.7,100.9L277.7,50.8L302.9,50.8L302.9,0.5Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+                <g>
+                    <rect x="127" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                    <rect x="253" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                    <rect x="152.2" y="51.3" width="24.2" height="24" style="fill:white;"/>
+                    <rect x="127" y="76.4" width="24.2" height="24.1" style="fill:white;"/>
+                    <rect x="227.8" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                    <rect x="177.4" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                    <rect x="152.2" y="76.4" width="24.2" height="24.1" style="fill:white;"/>
+                    <path d="M202.6,50.3L226.8,50.3L226.8,26.2L202.6,26.2L202.6,50.3Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M278.2,50.3L302.4,50.3L302.4,26.2L278.2,26.2L278.2,50.3Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M177.4,75.4L201.6,75.4L201.6,51.3L177.4,51.3L177.4,75.4Z" style="fill:white;fill-rule:nonzero;"/>
+                    <rect x="1" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                    <rect x="51.4" y="26.2" width="24.2" height="24.1" style="fill:white;"/>
+                    <rect x="253" y="51.3" width="24.2" height="24" style="fill:white;"/>
+                    <path d="M253,100.4L277.2,100.4L277.2,76.4L253,76.4L253,100.4Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M126,50.3L126,26.2L101.8,26.2L101.8,50.3L126,50.3Z" style="fill:white;fill-rule:nonzero;"/>
+                    <rect x="127" y="51.3" width="24.2" height="24" style="fill:white;"/>
+                    <rect x="152.2" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                    <rect x="1" y="51.3" width="24.2" height="24.1" style="fill:white;"/>
+                    <path d="M26.2,50.3L50.4,50.3L50.4,26.2L26.2,26.2L26.2,50.3Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M252,75.4L252,51.3L227.8,51.3L227.8,75.4L252,75.4Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+                <rect x="51.4" y="76.2" width="24.2" height="24.2" style="fill:white;"/>
+                <rect x="127" y="126.4" width="24.2" height="24.2" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(9.202e-15,150.28,-150.28,9.202e-15,151.685,0.5)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></linearGradient>
+    </defs>
+</svg>

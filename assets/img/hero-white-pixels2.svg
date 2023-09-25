@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 329 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,10)">
+        <path d="M176.4,75.4L152.2,75.4L152.2,99.5L176.4,99.5L176.4,75.4ZM177.4,50.3L177.4,74.4L201.6,74.4L201.6,50.3L177.4,50.3ZM253,25.3L253,49.3L277.2,49.3L277.2,25.3L253,25.3ZM127,49.3L151.2,49.3L151.2,25.3L127,25.3L127,49.3ZM26.2,49.3L50.4,49.3L50.4,25.3L26.2,25.3L26.2,49.3ZM227.8,24.3L252,24.3L252,0.2L227.8,0.2L227.8,24.3ZM278.2,0.2L278.2,24.3L302.4,24.3L302.4,0.2L278.2,0.2ZM51.4,0.2L51.4,24.3L75.6,24.3L75.6,0.2L51.4,0.2ZM1,24.3L25.2,24.3L25.2,0.2L1,0.2L1,24.3ZM202.6,0.2L202.6,24.3L226.8,24.3L226.8,0.2L202.6,0.2ZM101.8,24.2L126,24.2L126,0.2L101.8,0.2L101.8,24.2Z" style="fill:rgb(103,179,203);fill-rule:nonzero;"/>
+    </g>
+    <g id="Camada_2_1_" transform="matrix(1,0,0,1,0,-26)">
+        <g id="Camada_1-2">
+            <g>
+                <rect x="177.4" y="51.3" width="24.2" height="24" style="fill:white;"/>
+                <path d="M177.4,76.3L177.4,100.4L201.6,100.4L201.6,76.3L177.4,76.3Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M202.6,26.2L202.6,50.3L226.8,50.3L226.8,26.2L202.6,26.2Z" style="fill:white;fill-rule:nonzero;"/>
+                <rect x="177.4" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                <path d="M101.8,50.2L126,50.2L126,26.2L101.8,26.2L101.8,50.2Z" style="fill:white;fill-rule:nonzero;"/>
+                <rect x="202.6" y="1" width="24.2" height="24.1" style="fill:white;"/>
+                <rect x="177.4" y="1" width="24.2" height="24.1" style="fill:white;"/>
+                <path d="M227.8,50.3L252,50.3L252,26.2L227.8,26.2L227.8,50.3Z" style="fill:white;fill-rule:nonzero;"/>
+                <rect x="278.2" y="1" width="24.2" height="24.1" style="fill:white;"/>
+                <path d="M303.4,25.2L327.6,25.2L327.6,1L303.4,1L303.4,25.2Z" style="fill:white;fill-rule:nonzero;"/>
+                <rect x="253" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                <rect x="253" y="1" width="24.2" height="24.1" style="fill:white;"/>
+                <rect x="227.8" y="1" width="24.2" height="24.1" style="fill:white;"/>
+                <rect x="253" y="51.3" width="24.2" height="24" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M278.2,26.2L278.2,50.3L302.4,50.3L302.4,26.2L278.2,26.2Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M1,50.3L25.2,50.3L25.2,26.2L1,26.2L1,50.3Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M76.6,25.2L100.8,25.2L100.8,1L76.6,1L76.6,25.2Z" style="fill:white;fill-rule:nonzero;"/>
+                <rect x="1" y="1" width="24.2" height="24.1" style="fill:white;"/>
+                <rect x="127" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                <path d="M51.4,26.2L51.4,50.3L75.6,50.3L75.6,26.2L51.4,26.2Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M26.2,75.3L50.4,75.3L50.4,51.3L26.2,51.3L26.2,75.3Z" style="fill:white;fill-rule:nonzero;"/>
+                <rect x="26.2" y="26.2" width="24.2" height="23.9" style="fill:white;"/>
+                <rect x="26.2" y="1" width="24.2" height="24.1" style="fill:white;"/>
+                <rect x="51.4" y="1" width="24.2" height="24.1" style="fill:white;"/>
+                <path d="M127,75.3L151.2,75.3L151.2,51.3L127,51.3L127,75.3Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M151.2,1L127,1L127,25.1L151.2,25.1L151.2,1Z" style="fill:white;fill-rule:nonzero;"/>
+                <rect x="152.2" y="101.4" width="24.2" height="24.1" style="fill:white;"/>
+                <path d="M152.2,50.1L176.4,50.1L176.4,26.2L152.2,26.2L152.2,50.1Z" style="fill:white;fill-rule:nonzero;"/>
+                <rect x="152.2" y="76.3" width="24.2" height="24" style="fill:white;"/>
+                <rect x="152.2" y="51.3" width="24.2" height="24" style="fill:white;"/>
+                <rect x="152.2" y="1" width="24.2" height="24.1" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>
