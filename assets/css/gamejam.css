@@ -390,11 +390,14 @@ section .section-btns {
 
 .backshadow{
   position: relative;
-  left: -42px;
+  left: 0;
   padding: 6px 26px 8px 26px;
-  width: 104%;
+  width: 100%;
   background: #b046cd7a;
 }
+
+
+
 .backshadow h3{
   margin-top: 16px;
 }
