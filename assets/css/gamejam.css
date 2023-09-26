@@ -167,27 +167,27 @@ section .section-btns {
  
 }
 .edital img:hover {
-  content: url(/assets/img/hover/edital_hover.svg);  
+  content: url(/assets/img/hover/edital_hover.png);  
 }
 
 .inscrever img:hover {
-  content: url(/assets/img/hover/inscreva_hover.svg);  
+  content: url(/assets/img/hover/inscreva_hover.png);  
 }
 
 .mais img:hover {
-  content: url(/assets/img/hover/saibamais_hover.svg);  
+  content: url(/assets/img/hover/saibamais_hover.png);  
 }
 .guia img:hover {
-  content: url(/assets/img/hover/guia_hover.svg);  
+  content: url(/assets/img/hover/guia_hover.png);  
 }
 .material img:hover {
-  content: url(/assets/img/hover/material_hover.svg);  
+  content: url(/assets/img/hover/material_hover.png);  
 }
 .caderno img:hover {
-  content: url(/assets/img/hover/caderno_hover.svg);  
+  content: url(/assets/img/hover/caderno_hover.png);  
 }
 .saibamais2 img:hover {
-  content: url(/assets/img/hover/saibamais2_hover.svg);  
+  content: url(/assets/img/hover/saibamais2_hover.png);  
 }
 
 .hero {
